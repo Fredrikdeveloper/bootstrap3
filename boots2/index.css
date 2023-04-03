@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ } header {
+    background-color: gainsboro;
+    height: 300px;
+ }
+ .header-menu {
+  
+    padding: 50px 0px;
+} .header-menu > h1 {
+    font-size: 70px;
+} .card-body > h5 {
+    font-size: 30px;
+    font-weight: 700;
+}
+.line {
+    width: 100%;
+    border-bottom: 2px solid gainsboro;
+} .row {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 50px 0px;
+} 
+.card {
+    border: none !important;
+    
+} .footer-menu > p {
+    padding-top: 20px;
+}
